@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🤙 Name: Trương Hữu Phúc
-- 🌱Date: 16/2/2000
+- 📅Date: 16/2/2000
 - 📙 Learn Pentest => https://github.com/truonghuuphuc/Learn_Pentest
 - 🎁 9 CVE => https://github.com/truonghuuphuc/CVE
 - 📧 Contact => phuctruong2k@gmail.com
