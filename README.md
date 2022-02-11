@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🤙 Name: Trương Hữu Phúc
+- 🌱Date: 16/2/2000
+- 🎁 9 CVE => https://github.com/truonghuuphuc/CVE
 <!--
 **truonghuuphuc/truonghuuphuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
